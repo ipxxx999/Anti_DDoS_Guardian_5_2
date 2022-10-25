@@ -1,0 +1,42 @@
+Como subir archivos a github
+
+git init
+git remote add origin -link-   //para enlazar tu carpeta local con tu repo creado en github
+git status   // ver el estatus de tus archivos locales
+git add *  // agregar archivos
+git commit -m "mensaje"  // Git mapee los cambios
+git push origin master   // subir archivos
+
+
+
+https://github.com/ipxxx999/restaurante.git
+
+https://github.com/ipxxx999/moonfall.git
+
+https://github.com/ipxxx999/Editor-.htaccess.git
+
+https://github.com/ipxxx999/Editor_de_htaccess_php.git
+
+https://github.com/ipxxx999/Convertidor_de_XLSX_a_CSV.git
+
+https://github.com/ipxxx999/Convertidor_de_Contactos_CSV_en_VCF.git
+
+https://github.com/ipxxx999/Scanner_Web_Stretchoid_Shodan_Amazon.git
+
+https://github.com/ipxxx999/Generator_SSL_Certificate.git
+
+
+git init
+
+git remote add origin https://github.com/ipxxx999/Anti_DDoS_Guardian_5_2.git
+
+git status
+
+git add *
+
+git commit -m "List Anti DDoS Guardian 5 2"
+
+
+git push origin master
+
+
